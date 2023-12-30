@@ -14,16 +14,16 @@ wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.
 chmod +x Owshen_v0.1.0_x86_64.AppImage
 ```
 
-Make new Wallet 
+_Make new Wallet_ 
 ```
 ./Owshen_v0.1.0_x86_64.AppImage init
 ```
-Show Recovery
+_Show Recovery_
 ```
 ./Owshen_v0.1.0_x86_64.AppImage init --mnemnonic "Your Phrase Wallet"
 ```
 
-untuk melihat informasi wallet
+_to view wallet information_
 ```
 ./Owshen_v0.1.0_x86_64.AppImage info
 ```
