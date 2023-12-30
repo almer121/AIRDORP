@@ -14,13 +14,13 @@ wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.
 chmod +x Owshen_v0.1.0_x86_64.AppImage
 ```
 
-untuk membuat wallet baru `jangan lupa simpen pashparsenya`
+Make new Wallet 
 ```
 ./Owshen_v0.1.0_x86_64.AppImage init
 ```
-jika ingin recovery wallet yang sudah punya
+Show Recovery
 ```
-./Owshen_v0.1.0_x86_64.AppImage init --mnemnonic "seed parsemu"
+./Owshen_v0.1.0_x86_64.AppImage init --mnemnonic "Your Phrase Wallet"
 ```
 
 untuk melihat informasi wallet
